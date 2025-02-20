@@ -1,0 +1,25 @@
+html {
+    background: url('../images/racoonpicture.png') no-repeat center fixed;
+    background-size: cover;
+    scroll-behavior: smooth;
+    scroll-padding: 1rem;
+}
+
+.header {
+    font-size: 70px;
+    padding: 30px;
+    color: #1c80d5;
+    margin: 15px;
+    text-align: center;
+}
+
+.box{
+    border-radius: 25px;
+    background: rgb(255, 255, 255);
+    padding: 25px 50px;
+    margin: 5px 50px 50px 50px;
+}
+
+.roimg{
+    border-radius: 80%;
+}
